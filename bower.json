@@ -1,20 +1,21 @@
 {
-  "name": "turbolinks-modules",
-  "version": "0.9.0",
+  "name": "y",
+  "version": "y",
   "authors": [
     "Ivan Lucin <lucin.ivan@gmail.com>"
   ],
-  "description": "A wrapper around Turbolinks library that enables you to hook up into it's lifecycle events and connect your modules to specific updates in the DOM",
-  "main": "src/turbolinks-modules.js",
+  "description": "y",
+  "main": "y",
   "moduleType": [
     "amd",
-    "globals"
+    "globals",
+    "node"
   ],
   "keywords": [
     "turbolinks"
   ],
   "license": "MIT",
-  "homepage": "github.io/ilucin/turbolinks-modules",
+  "homepage": "https://github.com/ilucin/turbolinks-modules",
   "ignore": [
     "**/.*",
     "node_modules",
