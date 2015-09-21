@@ -1,6 +1,6 @@
 {
   "name": "turbolinks-modules",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "authors": [
     "Ivan Lucin <lucin.ivan@gmail.com>"
   ],
@@ -8,13 +8,14 @@
   "main": "src/turbolinks-modules.js",
   "moduleType": [
     "amd",
-    "globals"
+    "globals",
+    "node"
   ],
   "keywords": [
     "turbolinks"
   ],
   "license": "MIT",
-  "homepage": "github.io/ilucin/turbolinks-modules",
+  "homepage": "https://github.com/ilucin/turbolinks-modules",
   "ignore": [
     "**/.*",
     "node_modules",
