@@ -1,0 +1,29 @@
+{
+  "name": "turbolinks-modules",
+  "version": "0.9.0",
+  "authors": [
+    "Ivan Lucin <lucin.ivan@gmail.com>"
+  ],
+  "description": "A wrapper around Turbolinks library that enables you to hook up into it's lifecycle events and connect your modules to specific updates in the DOM",
+  "main": "src/turbolinks-modules.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "turbolinks"
+  ],
+  "license": "MIT",
+  "homepage": "github.io/ilucin/turbolinks-modules",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine-core": "jasmine#~2.3.4",
+    "jasmine-fixture": "~1.3.2"
+  }
+}
