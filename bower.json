@@ -4,8 +4,8 @@
   "authors": [
     "Ivan Lucin <lucin.ivan@gmail.com>"
   ],
-  "description": "y",
-  "main": "y",
+  "description": "A wrapper around Turbolinks library that enables you to hook up into it's lifecycle events and connect your modules to specific updates in the DOM",
+  "main": "src/turbolinks-modules.js",
   "moduleType": [
     "amd",
     "globals",
